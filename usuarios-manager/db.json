@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "id": "b679",
+      "nome": "CARLOS HENRIQUE VIEIRA DA SILVA",
+      "tipo": "Aluno",
+      "email": "carlosteragt@hotmail.com",
+      "telefone": "(35) 99100-0080",
+      "login": "carlos12345",
+      "ativo": 0,
+      "cargo": "Aluno"
+    },
+    {
+      "id": "f287",
+      "nome": "Teste Delete",
+      "tipo": "Funcionário",
+      "login": "teste123",
+      "email": "testeD@gmail.com",
+      "telefone": "(35) 99999-9999",
+      "ativo": 0,
+      "cargo": "Funcionário"
+    }
+  ],
+  "repositorios": [],
+  "seguidores": []
+}
